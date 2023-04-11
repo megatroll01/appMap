@@ -1,0 +1,24 @@
+{
+    "properties": [
+        {
+            "city": "Esplanada dos Ministérios",
+            "lat": 19.435079, 
+            "long": -99.136848
+        },
+        {
+            "city": "Ottawa",
+            "lat": 45.420039, 
+            "long": -75.696942 
+        },
+        {
+            "city": "Washington",
+            "lat": 38.900590, 
+            "long": -77.036273 
+        },
+        {
+            "city": "Brasilia",
+            "lat": -15.791570, 
+            "long": -47.889495
+        }
+    ]
+}
